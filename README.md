@@ -57,6 +57,13 @@ Alur Program
 6. GameLoop berjalan
   Setiap frame burung jatuh, pipa bergerak, skor bertambah
 7. GameOver
-  Saat tabrakan, berhenti; tampil tulisan “Game Over”
+  Saat tabrakan, berhenti, tampil tulisan “Game Over”
 8. Restart
   Tekan R game dimulai kembali dari awal
+
+# Dokumentasi
+
+
+
+https://github.com/user-attachments/assets/2945374c-dca2-43e2-91ed-00096177ae1d
+
