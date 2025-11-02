@@ -6,5 +6,5 @@ Saya Muhammad Fittra Novria Rizky dengan NIM 2411481 mengerjakan Tugas Praktikum
 
 Program ini merupakan implementasi vidio game bernama FlappyBird yang dibuat menggunakan Java Swing GUI. Tujuan dari vidio game ini adalah player bertahan hidup selama mungkin dengan melewati pipa yang memberikan score
 
-# Fitur Program
+#Fitur Program
 1. 
